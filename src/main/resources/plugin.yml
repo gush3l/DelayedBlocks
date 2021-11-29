@@ -1,0 +1,10 @@
+name: DelayedBlocks
+version: '${project.version}'
+main: me.gushel.delayedblocks.DelayedBlocks
+authors: [ gush3l ]
+description: Destroy some blocks after they an amount of time!
+commands:
+  delayedblocks:
+    description: Plugin main command.
+  delayedblocksdebug:
+    description: Return debug message to console.

@@ -1,0 +1,7 @@
+remove-after: 3
+debug: false
+effects: true
+drop-block: false
+use-permission-to-bypass: true
+block-list:
+  - 172
